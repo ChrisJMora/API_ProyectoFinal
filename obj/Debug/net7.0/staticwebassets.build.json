@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pNLYzLwwfPVWlm3XDBjMr+EFtso1b54Pyo+0NFM6qI0=",
+  "Source": "API_TouristBay",
+  "BasePath": "_content/API_TouristBay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
